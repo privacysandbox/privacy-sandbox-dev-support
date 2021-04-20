@@ -4,9 +4,9 @@
 
 You can learn more about the Privacy Sandbos and the associated projects at:
 
-* https://web.dev/digging-into-the-privacy-sandbox/
-* https://www.chromium.org/Home/chromium-privacy/privacy-sandbox
-* https://privacysandbox.com/
+* [web.dev/digging-into-the-privacy-sandbox](https://web.dev/digging-into-the-privacy-sandbox/)
+* [www.chromium.org/Home/chromium-privacy/privacy-sandbox](https://www.chromium.org/Home/chromium-privacy/privacy-sandbox)
+* [privacysandbox.com](https://privacysandbox.com/)
 
 These efforts are divided into three main areas:
 
@@ -30,7 +30,7 @@ location to collate questions and issues we hear from around the ecosystem.
    to see if your issue has already been raised.
 2. If not, create a new one! There are existing topics, but don't worry too much
    about picking the right one - we'll still answer.
-3. Make sure you read the [Code of Conduct](/code-of-conduct.md).
+3. Make sure you read the [Code of Conduct](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/blob/main/code-of-conduct.md).
 
 We will respond to your issues in a number of different ways:
 

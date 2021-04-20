@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Privacy Sandbox Developer Support
 
-You can use the [editor on GitHub](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Summary - ask your Privacy Sandbox developer question in the [Discussions](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/discussions)!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can learn more about the Privacy Sandbos and the associated projects at:
 
-### Markdown
+* https://web.dev/digging-into-the-privacy-sandbox/
+* https://www.chromium.org/Home/chromium-privacy/privacy-sandbox
+* https://privacysandbox.com/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These efforts are divided into three main areas:
 
-```markdown
-Syntax highlighted code block
+1. 🧰 Replacing functionality served by cross-site tracking
+2. 🍪 Phasing out third-party cookies
+3. 🕶️ Mitigating workarounds
 
-# Header 1
-## Header 2
-### Header 3
+As these changes come to the web platform, Chrome, and other browsers it means
+that you, as a web developer, will have changes to make to your sites. Either to
+take advantage of new APIs or to ensure that you're taking into account
+new restrictions.
 
-- Bulleted
-- List
+Our aim is to land these with clear documentation and minimal disruption, but
+it's likely you're going to have questions and we're here to try and answer
+them! You can raise issues directly in this repo, and we'll also use this as a
+location to collate questions and issues we hear from around the ecosystem.
 
-1. Numbered
-2. List
+## Process
 
-**Bold** and _Italic_ and `Code` text
+1. Take a look through the existing [Discussions](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/discussions)
+   to see if your issue has already been raised.
+2. If not, create a new one! There are existing topics, but don't worry too much
+   about picking the right one - we'll still answer.
+3. Make sure you read the [Code of Conduct](/code-of-conduct.md).
 
-[Link](url) and ![Image](src)
-```
+We will respond to your issues in a number of different ways:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* If your question is best raised as an issue against one the Privacy Sandbox
+  proposals, we will point you to the right repo and can help you pull together
+  the specific details for the issue.
+* If your question is actually an implementation issue, we will point you to the
+  relevant component on the browser's bug tracker (doesn't have to be Chrome!)
+  and can help you get the specific details needed for the issue.
+* If your question is already covered by existing documentation, we will point
+  you to that, but we will also try to understand what meant it wasn't easily
+  discovered or evident in the first place. There's probably something we can do
+  to make the documentation better!
+* And, of course, if your question relates to what you need to specifically do
+  on your site - then we will help work through a plan with you. The aim is that
+  we will use your question to create the first draft of documentation.
 
-### Jekyll Themes
+Your question may well cover several of these things in one, so we will also
+separate all those threads with you to get to the answers you need.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can also contact the team via
+[@ChromiumDev](https://twitter.com/ChromiumDev).

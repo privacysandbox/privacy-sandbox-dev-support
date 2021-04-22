@@ -2,7 +2,7 @@
 
 **Summary - ask your Privacy Sandbox developer question in the [Discussions](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/discussions)!**
 
-You can learn more about the Privacy Sandbos and the associated projects at:
+You can learn more about the Privacy Sandbox and the associated projects at:
 
 * [web.dev/digging-into-the-privacy-sandbox](https://web.dev/digging-into-the-privacy-sandbox/)
 * [chromium.org/Home/chromium-privacy/privacy-sandbox](https://www.chromium.org/Home/chromium-privacy/privacy-sandbox)

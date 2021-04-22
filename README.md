@@ -1,8 +1,8 @@
 # Privacy Sandbox Developer Support
 
-**Summary - ask your Privacy Sandbox developer question in the [Discussions](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/discussions)!**
+**Summary: ask your Privacy Sandbox developer questions in the [Discussions](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support/discussions)!**
 
-You can learn more about the Privacy Sandbox and the associated projects at:
+You can learn more about the Privacy Sandbox and associated projects at:
 
 * [web.dev/digging-into-the-privacy-sandbox](https://web.dev/digging-into-the-privacy-sandbox/)
 * [chromium.org/Home/chromium-privacy/privacy-sandbox](https://www.chromium.org/Home/chromium-privacy/privacy-sandbox)
@@ -34,7 +34,7 @@ location to collate questions and issues we hear from around the ecosystem.
 
 We will respond to your issues in a number of different ways:
 
-* If your question is best raised as an issue against one the Privacy Sandbox
+* If your question is best raised as an issue against one of the Privacy Sandbox
   proposals, we will point you to the right repo and can help you pull together
   the specific details for the issue.
 * If your question is actually an implementation issue, we will point you to the

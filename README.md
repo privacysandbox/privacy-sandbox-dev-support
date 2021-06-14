@@ -53,16 +53,16 @@ separate all those threads with you to get to the answers you need.
 
 ## Other channels
 
-### Mailing lists for specific Origin Trials
+### Mailing lists for specific origin trials
 
-You may be experimenting with Privacy Sandbox APIs via Origin Trials.
-In this case, join the related mailing list to post your questions and receive updates about your Origin Trial.
+You may be experimenting with Privacy Sandbox APIs via origin trials.
+In this case, join the related mailing list to post your questions and receive updates about your origin trial.
 
 Available mailing lists:
 
 * [Attribution Reporting API Devs (Conversion Measurement)](https://groups.google.com/u/1/a/chromium.org/g/attribution-reporting-api-dev)
 
-If no dedicated mailing list is available for your Origin Trial, ask your questions on this repository.
+If no dedicated mailing list is available for your origin trial, ask your questions on this repository.
 
 ### Twitter
 

@@ -51,5 +51,18 @@ We will respond to your issues in a number of different ways:
 Your question may well cover several of these things in one, so we will also
 separate all those threads with you to get to the answers you need.
 
-You can also contact the team via
+## Other channels
+
+### Mailing lists for specific Origin Trials
+
+You may be experimenting with Privacy Sandbox APIs via Origin Trials.
+In this case, join the related mailing list, if available, to post your questions and receive updates about your Origin Trial.
+
+Available mailing lists:
+
+* [Attribution Reporting API Devs (Conversion Measurement)](https://groups.google.com/u/1/a/chromium.org/g/attribution-reporting-api-dev)
+
+### Twitter
+
+You can contact the team via
 [@ChromiumDev](https://twitter.com/ChromiumDev).

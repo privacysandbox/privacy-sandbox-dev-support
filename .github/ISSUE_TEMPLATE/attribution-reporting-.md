@@ -1,10 +1,6 @@
 ---
-name: 'Attribution Reporting '
-about: TBD
-title: ''
+name: 'Attribution Reporting'
 labels: attribution-reporting
 assignees: maudnals
 
 ---
-
-TBD

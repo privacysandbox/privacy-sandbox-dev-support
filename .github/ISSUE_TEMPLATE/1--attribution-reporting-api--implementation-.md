@@ -4,7 +4,6 @@ about: Technical questions on how to implement Attribution Reporting API code, o
   questions on its docs or demo.
 title: ''
 labels: attribution-reporting
-assignees: maudnals
 
 ---
 

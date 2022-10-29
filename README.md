@@ -4,7 +4,7 @@
 
 You can learn more about the Privacy Sandbox and associated projects at:
 
-* [developer.chrome.com/docs/privacy-sandbox/](https://developer.chrome.com/docs/privacy-sandbox)
+* [developer.chrome.com/docs/privacy-sandbox](https://developer.chrome.com/docs/privacy-sandbox)
 * [web.dev/digging-into-the-privacy-sandbox](https://web.dev/digging-into-the-privacy-sandbox)
 * [chromium.org/Home/chromium-privacy/privacy-sandbox](https://www.chromium.org/Home/chromium-privacy/privacy-sandbox)
 * [privacysandbox.com](https://privacysandbox.com)

@@ -4,9 +4,10 @@
 
 You can learn more about the Privacy Sandbox and associated projects at:
 
-* [web.dev/digging-into-the-privacy-sandbox](https://web.dev/digging-into-the-privacy-sandbox/)
+* [developer.chrome.com/docs/privacy-sandbox/](https://developer.chrome.com/docs/privacy-sandbox)
+* [web.dev/digging-into-the-privacy-sandbox](https://web.dev/digging-into-the-privacy-sandbox)
 * [chromium.org/Home/chromium-privacy/privacy-sandbox](https://www.chromium.org/Home/chromium-privacy/privacy-sandbox)
-* [privacysandbox.com](https://privacysandbox.com/)
+* [privacysandbox.com](https://privacysandbox.com)
 
 These efforts are divided into three main areas:
 
@@ -51,6 +52,9 @@ Your question may well cover several of these things in one, so we will also
 separate all those threads with you to get to the answers you need.
 
 ## Other channels
+
+The Privacy Sandbox [Feedback](https://developer.chrome.com/docs/privacy-sandbox/feedback/) page explains where and how to 
+provide feedback for Privacy Sandbox APIs and proposals throughout the development process.
 
 ### Mailing lists for specific origin trials
 

@@ -81,6 +81,7 @@ Available mailing lists:
 * [Topics](https://groups.google.com/u/4/a/chromium.org/g/topics-api-announce)
 * [FLEDGE](https://groups.google.com/u/4/a/chromium.org/g/fledge-api-announce)
 * [Shared Storage](https://groups.google.com/a/chromium.org/g/shared-storage-api-announcements)
+* [First-Party Sets](https://groups.google.com/a/chromium.org/g/first-party-sets-discuss)
 
 If no dedicated mailing list is available for your origin trial, ask your
 questions on this repository.

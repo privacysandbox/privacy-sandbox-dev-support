@@ -54,7 +54,7 @@ separate all those threads with you to get to the answers you need.
 ## Open Issues in languages other than English
 
 While the primary language for our Developer Relations team is English,
-we know that's not the case for all of our developers. We’lll use our best
+we know that's not the case for all of our developers. We’ll use our best
 effort to understand Issues opened in languages other than English, with
 the help of Google Translate. We will copy the translation into our
 comment, and respond in English.
@@ -80,8 +80,10 @@ Available mailing lists:
 * [Attribution Reporting (Conversion Measurement)](https://groups.google.com/u/1/a/chromium.org/g/attribution-reporting-api-dev)
 * [Topics](https://groups.google.com/u/4/a/chromium.org/g/topics-api-announce)
 * [FLEDGE](https://groups.google.com/u/4/a/chromium.org/g/fledge-api-announce)
+* [Shared Storage](https://groups.google.com/a/chromium.org/g/shared-storage-api-announcements)
 
-If no dedicated mailing list is available for your origin trial, ask your questions on this repository.
+If no dedicated mailing list is available for your origin trial, ask your
+questions on this repository.
 
 ### Twitter
 

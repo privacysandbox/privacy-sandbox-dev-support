@@ -52,9 +52,15 @@ Your question may fall under several of these categories, and we may
 separate all those threads with you to get to the answers you need.
 
 ## Open Issues in languages other than English
-While the primary language for our Developer Relations team is English, we know that's not the case for all of our developers. We’lll use our best effort to understand Issues opened in languages other than English, with the help of Google Translate. We will copy the translation into our comment, and respond in English.
 
-If you have further feedback or questions, you can continue to reply to us in your preferred language, and we’ll follow this same protocol.
+While the primary language for our Developer Relations team is English,
+we know that's not the case for all of our developers. We’lll use our best
+effort to understand Issues opened in languages other than English, with
+the help of Google Translate. We will copy the translation into our
+comment, and respond in English.
+
+If you have further feedback or questions, you can continue to reply to us
+in your preferred language, and we’ll follow this same protocol.
 
 ## Other channels
 

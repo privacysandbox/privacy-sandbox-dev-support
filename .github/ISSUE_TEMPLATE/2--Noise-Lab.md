@@ -1,5 +1,5 @@
 ---
-name: Noise Lab
+name: 2. Noise Lab
 about: Feature request or bug report on Noise Lab
 title: ''
 labels: noise-lab

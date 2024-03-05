@@ -2,7 +2,7 @@
 name: Noise Lab
 about: Feature request or bug report on Noise Lab
 title: ''
-labels: ''
+labels: 'noise-lab'
 assignees: ''
 
 ---

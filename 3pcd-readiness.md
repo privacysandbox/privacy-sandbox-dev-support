@@ -23,7 +23,7 @@ Note: This page is primarily focused on **non-advertising** use cases such as pa
 
 ## How to submit
 
-1. On the [Developer Support GitHub page](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support), navigate to the document in the main table called  (If you can read this sentence then you have already completed this step!)
+1. On the [Developer Support GitHub page](https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support), navigate to the document in the main table called 3pcd-readiness.md (If you can read this sentence then you have already completed this step!)
 2. Click the pencil icon on the right side to edit the appropriate table below and add your information:
     1. Use the `|` to make sure that the information that you provide correctly shows up in each cell
     2. After you select 'Propose changes' an editor will review and publish your updates in the coming days.

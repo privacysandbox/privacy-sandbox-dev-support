@@ -54,6 +54,8 @@ _For example: single sign-on or social sign-on_
 
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
+| [Sign in with Google for Web](https://developers.google.com/identity/gsi/web/guides/overview)  | Ready for 3PCD, sites may require to make updates to adopt changes  | [Guide - Migrate to FedCM](https://developers.google.com/identity/gsi/web/guides/fedcm-migration) | [StackOverflow Space](https://stackoverflow.com/questions/tagged/google-signin) |
+| [Google Identity Services JavaScript library](https://developers.google.com/identity/oauth2/web/guides/overview)  | No reliance on 3PCs  | | [StackOverflow Space](https://stackoverflow.com/questions/tagged/google-signin) |
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### Infrastructure

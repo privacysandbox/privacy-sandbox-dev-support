@@ -56,6 +56,7 @@ _For example: single sign-on or social sign-on_
 |---|---|---|---|
 | [Sign in with Google for Web](https://developers.google.com/identity/gsi/web/guides/overview)  | Ready for 3PCD, sites may require to make updates to adopt changes  | [Guide - Migrate to FedCM](https://developers.google.com/identity/gsi/web/guides/fedcm-migration) | [StackOverflow Space](https://stackoverflow.com/questions/tagged/google-signin) |
 | [Google Identity Services JavaScript library](https://developers.google.com/identity/oauth2/web/guides/overview)  | No reliance on 3PCs  | | [StackOverflow Space](https://stackoverflow.com/questions/tagged/google-signin) |
+| [Google Sign-In](https://developers.google.com/identity/sign-in/web/sign-in) | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial. | [Deprecation and Sunset](https://developers.google.com/identity/sign-in/web/deprecation-and-sunset) | File a [GitHub](https://github.com/google/google-api-javascript-client/issues) issue or use the [google-sign](https://stackoverflow.com/questions/tagged/google-signin) tag on Stack Overflow | 
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### Infrastructure

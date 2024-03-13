@@ -46,6 +46,7 @@ _For example: an embedded realtime chat or commenting widget_
 
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
+| [tawk.to](https://tawk.to)  | No reliance on 3PCs  | <!--  -->  | <!-- - -->  | 
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### IDP/Sign-In

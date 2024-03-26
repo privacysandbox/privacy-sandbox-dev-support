@@ -77,4 +77,5 @@ _Anything that doesn't fit into the above categories_
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
 | [br.clear.sale/](https://br.clear.sale/)  | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial.  | [Api Documentation](https://api.clearsale.com.br/docs/behavior-analytics) | [contact](mailto:integracao@clear.sale?subject=Behavior&nbsp;3PCD&nbsp;doubts) | 
+| [Lunio](https://lunio.ai/) | No reliance on 3PCs | [Cookieless Product Overview](https://lunio.ai/product/) | [Support](https://lunio.ai/about-us/contact/) |
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 

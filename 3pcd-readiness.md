@@ -70,6 +70,14 @@ _For example: a CDN or CMS_
 |---|---|---|---|
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
+### Anti-Fraud and Anti-Abuse
+
+_For example: a security or anti-fraud vendor_
+
+| Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
+|---|---|---|---|
+| <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
+
 ### Other
 
 _Anything that doesn't fit into the above categories_

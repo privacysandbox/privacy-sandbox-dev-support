@@ -76,6 +76,8 @@ _For example: a security or anti-fraud vendor_
 
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
+| [reCAPTCHA V2](https://developers.google.com/recaptcha/docs/display)| No action needed by sites. Service is compatible with 3PCD.  |  | [reCAPTCHA Help Center](https://support.google.com/recaptcha/?hl=en)  | 
+| [reCAPTCHA V3](https://developers.google.com/recaptcha/docs/v3) | No action needed by sites. Service is compatible with 3PCD.  |   | [reCAPTCHA Help Center](https://support.google.com/recaptcha/?hl=en)  | 
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### Other

@@ -86,6 +86,7 @@ _For example: a page analytics or customer experience tool_
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
 | [Chartbeat - Heads Up Display](https://chartbeat.com/products/optimization/)  | Temporary mitigations applied with a long-term solution in progress. No site changes are expected to be required. | [HUD Documentation](https://help.chartbeat.com/hc/en-us/sections/201761058-Heads-Up-Display) | [Support](mailto:support@chartbeat.com?subject=hud&nbsp;3PCD)  |
+|[Mather Economics](https://www.mathereconomics.com/), <br>[Listener First Party Data Platform](https://www.mathereconomics.com/listener-mathers-data-analytics-platform/), & <br>[Sophi AI](https://www.mathereconomics.com/sophi-start/)  | Prepared for 3PCD. All Mather Economics and Sophi clients will not be impacted. All of Mather Economics products and services use first party data and are integrated directly in collaboration with our clients.  | [Privacy Policy - Mather Economics](https://www.mathereconomics.com/privacy-policy/) <br>[Content Paywall (2.0) (sophi.io)](https://resources.sophi.io/integrations/docs)  | info@mathereconomics.com  | 
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### Other

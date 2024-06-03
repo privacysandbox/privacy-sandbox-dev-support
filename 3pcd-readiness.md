@@ -83,7 +83,8 @@ _For example: a security or anti-fraud vendor_
 
 ### Analytics and Business Tools
 _For example: a page analytics or customer experience tool_
-
+| [Chartbeat - Heads Up Display](https://chartbeat.com/products/optimization/)  | Temporary mitigations applied with a long-term solution in progress. No site changes are expected to be required. | [HUD Documentation](https://help.chartbeat.com/hc/en-us/sections/201761058-Heads-Up-Display) | [Support](mailto:support@chartbeat.com?subject=hud&nbsp;3PCD)  |
+| <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### Other
 
@@ -94,6 +95,5 @@ _Anything that doesn't fit into the above categories_
 | [br.clear.sale/](https://br.clear.sale/)  | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial.  | [Api Documentation](https://api.clearsale.com.br/docs/behavior-analytics) | [contact](mailto:integracao@clear.sale?subject=Behavior&nbsp;3PCD&nbsp;doubts) | 
 | [Lunio](https://lunio.ai/) | No reliance on 3PCs | [Cookieless Product Overview](https://lunio.ai/product/) | [Support](https://lunio.ai/about-us/contact/) |
 | [WordPress VIP](https://wpvip.com/) & [rtCamp](https://rtcamp.com/) | Prepared for 3PCD and offering audits to help businesses evaluate and understand the impact of third-party cookie deprecation | [WordPress VIP and rtCamp Partner to Help Businesses Adapt to New Web Privacy Standards](https://wpvip.com/2024/02/21/vip-rtcamp-privacy-sandbox/) | [Get your free audit](https://wpvip.com/website-audit-and-cookie-analysis/) |
-| [Chartbeat - Heads Up Display](https://chartbeat.com/products/optimization/)  | Temporary mitigations applied with a long-term solution in progress. No site changes are expected to be required. | [HUD Documentation](https://help.chartbeat.com/hc/en-us/sections/201761058-Heads-Up-Display) | [Support](mailto:support@chartbeat.com?subject=hud&nbsp;3PCD)  |
 | [Plumrocket](https://plumrocket.com/) | Ready for 3PC deprecation. Conducting cookie audits to help businesses identify issues related to 3PC deprecation and adapt to the changes. | [Third-Party Cookie Audit](https://plumrocket.com/blog/privacy-sandbox) | [Get Audit](https://plumrocket.com/contacts) |
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 

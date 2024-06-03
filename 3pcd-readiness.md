@@ -83,6 +83,8 @@ _For example: a security or anti-fraud vendor_
 
 ### Analytics and Business Tools
 _For example: a page analytics or customer experience tool_
+| Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
+|---|---|---|---|
 | [Chartbeat - Heads Up Display](https://chartbeat.com/products/optimization/)  | Temporary mitigations applied with a long-term solution in progress. No site changes are expected to be required. | [HUD Documentation](https://help.chartbeat.com/hc/en-us/sections/201761058-Heads-Up-Display) | [Support](mailto:support@chartbeat.com?subject=hud&nbsp;3PCD)  |
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 

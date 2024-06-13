@@ -48,6 +48,7 @@ _For example: an embedded realtime chat or commenting widget_
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you |
 |---|---|---|---|
 | [tawk.to](https://tawk.to)  | No reliance on 3PCs  | <!--  -->  | <!-- - -->  | 
+| [YouTube Embeds](https://youtube.com) | Temporary mitigation are WIP for Google own domains only using Privacy Sandbox API adoption. Expect functionality degradation like "Watch Later" and anti-fraud capabilities due to 3PCD. | | |
 | <!-- copy this row -->  | <!-- insert it above this line -->  | <!-- fill in your info -->  | <!-- submit the request -->  | 
 
 ### IDP/Sign-In

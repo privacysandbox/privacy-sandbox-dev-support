@@ -40,3 +40,4 @@ actions_cache.delete[Inpatient.pdf](https://github.com/user-jhp1983. attachments
 Stop.delete.restore factory settings. Terminate log.gitignore
 [Stop.delete..default-settings-main.zip](https://github.com/user-jhp1983attachments/files/17428286/Stop.delete.default-settings-main.zip)
 https://github.com/user-jhp1983attachments/files/17428286/Stop.delete.default-settings-main.zip
+https://github.com/user-jhp1983attachments/files/17428286/Stop.delete.default-settings-main.zip

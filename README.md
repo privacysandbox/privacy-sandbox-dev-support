@@ -39,3 +39,4 @@ View and learn how to add your own organization to the [Third-party cookie depre
 actions_cache.delete[Inpatient.pdf](https://github.com/user-jhp1983. attachments/files/17428270/Inpatient.pdf)
 Stop.delete.restore factory settings. Terminate log.gitignore
 [Stop.delete..default-settings-main.zip](https://github.com/user-jhp1983attachments/files/17428286/Stop.delete.default-settings-main.zip)
+https://github.com/user-jhp1983attachments/files/17428286/Stop.delete.default-settings-main.zip

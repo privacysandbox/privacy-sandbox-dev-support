@@ -1,12 +1,12 @@
 ---
-name: '4: Third-party cookie deprecation'
-about: Questions or discussion on the structure and plans of the deprecation of third-party coookies.
+name: '4: Third-party cookies'
+about: Questions or discussion about migrating from third-party coookies to alternative solutions.
 title: ''
-labels: third-party-cookie-deprecation
+labels: third-party-cookies
 assignees: ''
 
 ---
 
-Read https://developer.chrome.com/docs/privacy-sandbox/third-party-cookie-phase-out/ for context before raising issues here.
+Read https://developer.chrome.com/docs/privacy-sandbox/cookies/ for context before raising issues here.
 
 For site-specific issues with third-party cookies, please report this via https://goo.gle/report-3pc-broken

@@ -4,7 +4,9 @@
 
 <p><a href="https://privacysandbox.google.com/overview/status">Privacy Sandbox feature status</a> provides more information about the status of individual APIs and platform features.</p>
 
-<p>This repo is scheduled to be archived.</p>
+<hr>
+
+<p>This repo has now been archived. It is read-only for all users, and no longer actively maintained.</p>
 
 <hr>
 
